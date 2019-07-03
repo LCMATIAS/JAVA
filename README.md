@@ -25,5 +25,5 @@ ACA UNA IMAGEN
 
 ![solarized palette](https://github.com/LCMATIAS/TP_ISTIC_CORREA/blob/master/Capturas/Salida.png)
 
-![solarized palette](https://github.com/LCMATIAS/TP_ISTIC_CORREA/blob/master/Capturas/Inicio.png)
+![solarized palette](https://github.com/LCMATIAS/TP_ISTIC_CORREA/blob/master/Capturas/Facturas.png)
 
