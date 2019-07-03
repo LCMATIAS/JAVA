@@ -8,30 +8,29 @@
 
 <h1>Imagen Inicio</h1>
 
-
 ![solarized palette](https://github.com/LCMATIAS/TP_ISTIC_CORREA/blob/master/Capturas/Inicio.png)
 
-Imagen Vista Vehiculos
+s<h1>Imagen Vista Vehiculos</h1>
 
 ![solarized palette](https://github.com/LCMATIAS/TP_ISTIC_CORREA/blob/master/Capturas/Vista%20Vehiculos.png)
 
-Imagen Vista Estacionados
+<h1>Imagen Vista Estacionados</h1>
 
 ![solarized palette](https://github.com/LCMATIAS/TP_ISTIC_CORREA/blob/master/Capturas/Vista%20Estacionados.png)
 
-Imagen Estacionados
+<h1>Imagen Estacionados</h1>
 
 ![solarized palette](https://github.com/LCMATIAS/TP_ISTIC_CORREA/blob/master/Capturas/Estacionados.png)
 
-Imagen Entrada
+<h1>Imagen Entrada</h1>
 
 ![solarized palette](https://github.com/LCMATIAS/TP_ISTIC_CORREA/blob/master/Capturas/Entrada.png)
 
-Imagen Salida
+<h1>Imagen Salida</h1>
 
 ![solarized palette](https://github.com/LCMATIAS/TP_ISTIC_CORREA/blob/master/Capturas/Salida.png)
 
-Imagen Facturados
+<h1>Imagen Facturados</h1>
 
 ![solarized palette](https://github.com/LCMATIAS/TP_ISTIC_CORREA/blob/master/Capturas/Facturas.png)
 
