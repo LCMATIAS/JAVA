@@ -13,8 +13,17 @@ ACA UNA IMAGEN
 </body>
 </html>
 
-![solarized palette](https://github.com/LCMATIAS/TP_ISTIC_CORREA/blob/master/Capturas/istic.jpg)
+![solarized palette](https://github.com/LCMATIAS/TP_ISTIC_CORREA/blob/master/Capturas/Inicio.png)
 
 ![solarized palette](https://github.com/LCMATIAS/TP_ISTIC_CORREA/blob/master/Capturas/Mustang.jpeg)
 
+![solarized palette](https://github.com/LCMATIAS/TP_ISTIC_CORREA/blob/master/Capturas/Inicio.png)
+
+![solarized palette](https://github.com/LCMATIAS/TP_ISTIC_CORREA/blob/master/Capturas/Inicio.png)
+
+![solarized palette](https://github.com/LCMATIAS/TP_ISTIC_CORREA/blob/master/Capturas/Inicio.png)
+
+![solarized palette](https://github.com/LCMATIAS/TP_ISTIC_CORREA/blob/master/Capturas/Inicio.png)
+
+![solarized palette](https://github.com/LCMATIAS/TP_ISTIC_CORREA/blob/master/Capturas/Inicio.png)
 
