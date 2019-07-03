@@ -13,6 +13,6 @@ ACA UNA IMAGEN
 </body>
 </html>
 
-![solarized palette](https://github.com/altercation/solarized/raw/master/img/solarized-palette.png)
+![solarized palette](https://github.com/LCMATIAS/TP_ISTIC_CORREA/blob/master/Capturas/Mustang.jpeg)
 
 ![solarized vim](https://github.com/altercation/solarized/raw/master/img/solarized-vim.png)
