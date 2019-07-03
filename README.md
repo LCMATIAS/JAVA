@@ -19,7 +19,7 @@ ACA UNA IMAGEN
 
 ![solarized palette](https://github.com/LCMATIAS/TP_ISTIC_CORREA/blob/master/Capturas/Vista%20Estacionados.png)
 
-![solarized palette](https://github.com/LCMATIAS/TP_ISTIC_CORREA/blob/master/Capturas/Inicio.png)
+![solarized palette](https://github.com/LCMATIAS/TP_ISTIC_CORREA/blob/master/Capturas/Estacionados.png)
 
 ![solarized palette](https://github.com/LCMATIAS/TP_ISTIC_CORREA/blob/master/Capturas/Inicio.png)
 
