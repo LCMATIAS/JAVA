@@ -2,9 +2,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Trabajo Taller III</title>
+
 </head>
 <body>
+  
+  <h1>Trabajo Practico Taller III</h1>
 
 <h1>Imagen Inicio</h1>
 
