@@ -1,7 +1,13 @@
 # TP_ISTIC_CORREA
-Trabajo Taller II 
+<!DOCTYPE html>
+<html>
+<head>
+<title>Trabajo Taller III</title>
+</head>
+<body>
 
-Imagen Inicio
+<h1>Imagen Inicio</h1>
+
 
 ![solarized palette](https://github.com/LCMATIAS/TP_ISTIC_CORREA/blob/master/Capturas/Inicio.png)
 
@@ -28,4 +34,7 @@ Imagen Salida
 Imagen Facturados
 
 ![solarized palette](https://github.com/LCMATIAS/TP_ISTIC_CORREA/blob/master/Capturas/Facturas.png)
+
+</body>
+</html>
 
